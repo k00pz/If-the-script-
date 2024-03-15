@@ -1,0 +1,39 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverwin.lua"; 
+    Text = "Injecting the script"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverwin.lua"; 
+    Text = "Injected successfully"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverwin.lua"; 
+    Text = "If the Ui Flickers its Loading The script "; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverwin.lua"; 
+    Text = "created by Fsploit. Owned by blaze. Obfuscated by Gearv4. #team Exploit X"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
